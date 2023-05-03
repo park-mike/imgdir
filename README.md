@@ -1,2 +1,2 @@
-# Image Directory of Udacity Web Projects Desscriptions
-Image Directory of Udacity Web Projects Desscriptions
+# Image Directory of Udacity Project Desscriptions
+Image Directory of Udacity Project Desscriptions
